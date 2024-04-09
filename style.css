@@ -1,10 +1,15 @@
-/* * {
+* {
     padding: 0;
     margin: 0;
-} */
+}
 
-body {
-    background-color: black;
+.links-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.links-container, button {
+    
 }
 
 h3 {
